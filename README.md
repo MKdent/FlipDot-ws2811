@@ -2,7 +2,7 @@
 Control 1x7 flipdots with ws2811, esp32 and Adafruit_NeoPixel 
 
 
-Flipping the dots is possible uP to 30 times per second
+Flipping the dots is possible up to 30 times per second
 Video: https://youtu.be/RNscDvGn9HI
 
 falstad circuit simulation  https://tinyurl.com/ybub3474
