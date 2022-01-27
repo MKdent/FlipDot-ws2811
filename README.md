@@ -10,3 +10,6 @@ falstad circuit simulation  https://tinyurl.com/ybub3474
 No use of shift registers but controlling each dot seperatly. Original idea from https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/ 
 I utilise the commonly, cheap and easy to control ws2811 ic to control the dots. So lots of arduino libraries are available.
 In my example I use the Adafruit_NeoPixel library.
+
+-Red channel has to be set to rgb(255,0,0) 
+-SetBrightness to 255
